@@ -1,0 +1,23 @@
+[
+  {
+    "slug": "elisp",
+    "name": "Emacs Lisp",
+    "epithet": "the editor's own language · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦Emacs Lisp:EMX:fbd6e4⟧"
+  },
+  {
+    "slug": "the-chord",
+    "name": "The Key Chord",
+    "epithet": "C-x C-c and its kin · natural",
+    "emergence": "natural",
+    "moniker": "⟦The Key Chord:EMX:0c5c13⟧"
+  },
+  {
+    "slug": "the-editor-as-os",
+    "name": "The Editor as OS",
+    "epithet": "the boundless idea · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Editor as OS:EMX:3a386c⟧"
+  }
+]

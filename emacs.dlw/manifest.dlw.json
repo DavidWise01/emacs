@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Emacs",
+  "universe": "EMX · Emacs (TTY · The Terminal)",
+  "emergence": "",
+  "moniker": "⟦Emacs:EMX:013bab⟧",
+  "carbon": "emacs.carbon.tiff (TIFF)",
+  "silicon": "emacs.silicon.png (PNG)",
+  "seal_sha256": "e4c322e57f73937d64a8a1ab53ea0874dcef1a81d6bec4bffdd7300ebba97f98",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

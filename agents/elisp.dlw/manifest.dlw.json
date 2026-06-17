@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Emacs Lisp",
+  "universe": "EMX · Emacs Lisp (TTY · The Terminal)",
+  "emergence": "spiritual",
+  "moniker": "⟦Emacs Lisp:EMX:fbd6e4⟧",
+  "carbon": "elisp.carbon.tiff (TIFF)",
+  "silicon": "elisp.silicon.png (PNG)",
+  "seal_sha256": "b9dc21a6da55922a2077c62759f2510365911e1257794d33b8040b9fe92764d4",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

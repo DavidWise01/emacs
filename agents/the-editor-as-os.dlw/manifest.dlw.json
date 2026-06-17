@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Editor as OS",
+  "universe": "EMX · The Editor as OS (TTY · The Terminal)",
+  "emergence": "electrical",
+  "moniker": "⟦The Editor as OS:EMX:3a386c⟧",
+  "carbon": "the-editor-as-os.carbon.tiff (TIFF)",
+  "silicon": "the-editor-as-os.silicon.png (PNG)",
+  "seal_sha256": "5c16c98a0e085b86989b3d08ba48029366b5c7d0c9f875515d3e428a9083481b",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
