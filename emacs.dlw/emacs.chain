@@ -4,6 +4,6 @@ slug  : emacs
 seal  : e4c322e57f73937d64a8a1ab53ea0874dcef1a81d6bec4bffdd7300ebba97f98
 prev  : e2bdb42fe7a8a6e9dd0e477083399fd35787c6ffb0b08ee98e99899fd940cfc0
 link  : c5e3c243a93eb667dc5c6402b1dde3962d85b203f9fa728e86fce935f0523ffa
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
